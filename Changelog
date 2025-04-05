@@ -1,0 +1,25 @@
+Changelog for Dragon Security Bot
+All notable changes to this project will be documented in this file.
+
+[1.0.0] - 2025-04-05
+Added
+Initial release of Dragon Security Bot with basic moderation features.
+
+Implemented anti-nuke protection to prevent server deletion or role/channel wiping.
+
+Added custom commands for server-specific needs.
+
+Integrated message filtering for moderation of inappropriate content.
+
+Role management features (streamer role, custom roles based on activities).
+
+[1.1.0] - 2025-04-10
+Added
+Enhanced spam protection for message content moderation.
+
+Custom response system to interact with users more effectively.
+
+Fixed
+Minor bug fixes in the moderation commands.
+
+Improved bot uptime stability.
